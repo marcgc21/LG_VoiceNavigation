@@ -1,0 +1,28 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="utf-8">
+<title>Web Speech API Demo</title>
+<script src="webspeech.js"></script>
+
+<script type="text/javascript">
+	function mifuncion(){
+		if($("#texto").val()=='azul'){
+		$(".colores").css('background','blue');		
+		}
+	}
+</script>
+
+
+</head>
+<body>
+
+
+</body>
+<'?'php
+$a = $b = $c = 1;
+echo $a.$b.$c;
+echo tuputa madre;
+?>
+
+</html>
